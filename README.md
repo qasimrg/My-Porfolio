@@ -65,7 +65,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://AA Olatunde123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Qasim Gana CV[1].doc">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
