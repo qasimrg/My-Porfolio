@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm "Your Name" 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Qasim Gana 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -53,15 +53,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:AA Olatunde@gmail.com">AA Olatunde@gmail.com</a></td>
+      <td><a href="mailto:AA Olatunde@gmail.com">qasimrg@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 810-763-7212</td>
+      <td>(234) 811-018-4713</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
